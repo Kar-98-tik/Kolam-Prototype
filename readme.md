@@ -5,22 +5,6 @@ Users provide design parameters, and the AI generates **step-by-step instruction
 
 ---
 
-## 📑 Table of Contents  
-- [Technologies Used](#-technologies-used)  
-- [How the Kolam Generation Works](#-how-the-kolam-generation-works)  
-- [Integration and Configuration of Gemini Model](#-integration-and-configuration-of-gemini-model)  
-- [Incremental Rendering](#-incremental-rendering)  
-- [Error Handling](#-error-handling)  
-- [Deployment](#-deployment)  
-  - [Local Deployment](#local-deployment)  
-  - [Cloud Deployment](#cloud-deployment)  
-- [Potential Improvements](#-potential-improvements)  
-- [Challenges Encountered](#-challenges-encountered)  
-- [Key Takeaways](#-key-takeaways)  
-- [License](#-license)  
-
----
-
 ## 🛠 Technologies Used  
 - **[Streamlit](https://streamlit.io/):** Interactive web UI  
 - **Google Gemini (Generative AI):** Core AI model to generate Kolam instructions in JSON  
